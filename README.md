@@ -1,0 +1,2 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; linear-gradient(120deg, rgba(254,243,51,0.8) 0%, rgba(254,243,51,0.8) 25%, rgba(255,255,255,0.8) 25%, rgba(255,255,255,0.8) 50%, rgba(154,88,207,0.8) 50%, rgba(154,88,207,0.8) 75%, rgba(45,45,45,0.8) 75%, rgba(45,45,45,0.8) 100%);]{x0000}$}
